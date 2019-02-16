@@ -1,0 +1,53 @@
+﻿@model EmployeeMVCClient.EmployeeClient.Employee
+
+@{
+    ViewBag.Title = "DetailsEmployee";
+}
+
+<h2>DetailsEmployee</h2>
+
+<fieldset>
+    <legend>Employee</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EmployeeName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EmployeeName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Gender)
+    </div>
+    <div class="display-field">
+        @Html.RadioButtonFor(model => model.Gender, false, "Male") Male
+
+        @Html.RadioButtonFor(model => model.Gender, true, "Female") Female
+
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Location)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Location)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Phone)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Phone)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Salary)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Salary)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.EmployeeId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

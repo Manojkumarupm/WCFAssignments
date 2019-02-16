@@ -1,0 +1,122 @@
+﻿@model EmployeeMVCClient.EmployeeClient.Employee
+
+@{
+    ViewBag.Title = "AddEmployee";
+}
+
+<h2>AddEmployee</h2>
+
+@using (Html.BeginForm("AddEmployee", "Home", FormMethod.Post))
+    
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Employee</legend>
+        <table>
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.EmployeeId)
+
+                    </div>
+
+                </td>
+                <td>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.EmployeeId)
+                        @Html.ValidationMessageFor(model => model.EmployeeId)
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.EmployeeName)
+                    </div>
+                </td>
+                <td>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.EmployeeName)
+                        @Html.ValidationMessageFor(model => model.EmployeeName)
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.Gender)
+                    </div>
+                </td>
+                <td>
+                    <div class="editor-field">
+
+
+                        @Html.RadioButtonFor(model => model.Gender, false, "Male") Male
+                       
+                        @Html.RadioButtonFor(model => model.Gender, true, "Female") Female
+                        
+                        @Html.ValidationMessageFor(model => model.Gender)
+
+                    </div>
+                </td>
+            </tr>
+           
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.Location)
+                    </div>
+                </td>
+                <td>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.Location)
+                        @Html.ValidationMessageFor(model => model.Location)
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.Phone)
+                    </div>
+                </td>
+                <td>
+
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.Phone)
+                        @Html.ValidationMessageFor(model => model.Phone)
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="editor-label">
+                        @Html.LabelFor(model => model.Salary)
+                    </div>
+                </td>
+                <td>
+                    <div class="editor-field">
+                        @Html.EditorFor(model => model.Salary)
+                        @Html.ValidationMessageFor(model => model.Salary)
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                        <input type="submit" value="Create" />
+                    </p>
+                </td>
+                <td> </td>
+            </tr>
+        </table>
+
+    </fieldset>
+    @ViewBag.Message;
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

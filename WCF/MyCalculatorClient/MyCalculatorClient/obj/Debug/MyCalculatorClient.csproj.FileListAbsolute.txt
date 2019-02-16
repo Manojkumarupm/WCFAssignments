@@ -1,0 +1,9 @@
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\bin\Debug\MyCalculatorClient.exe.config
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\bin\Debug\MyCalculatorClient.exe
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\bin\Debug\MyCalculatorClient.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.Form1.resources
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.Properties.Resources.resources
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.csproj.GenerateResource.Cache
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.exe
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculatorClient\MyCalculatorClient\obj\Debug\MyCalculatorClient.pdb

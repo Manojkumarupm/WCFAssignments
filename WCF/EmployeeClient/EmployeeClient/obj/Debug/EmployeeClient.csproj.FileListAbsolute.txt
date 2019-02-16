@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\bin\EmployeeClient.dll.config
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\bin\EmployeeClient.dll
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\bin\EmployeeClient.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\obj\Debug\EmployeeClient.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\obj\Debug\EmployeeClient.dll
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeClient\EmployeeClient\obj\Debug\EmployeeClient.pdb

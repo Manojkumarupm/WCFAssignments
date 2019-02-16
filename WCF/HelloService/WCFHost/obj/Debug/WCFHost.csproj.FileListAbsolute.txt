@@ -1,0 +1,8 @@
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\bin\Debug\HelloService.dll
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\bin\Debug\HelloService.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\m9peru\Desktop\FSE\WCF\HelloService\WCFHost\obj\Debug\WCFHost.pdb

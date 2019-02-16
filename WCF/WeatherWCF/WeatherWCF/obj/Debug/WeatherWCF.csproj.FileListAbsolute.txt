@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\bin\Debug\WeatherWCF.dll.config
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\bin\Debug\WeatherWCF.dll
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\bin\Debug\WeatherWCF.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\obj\Debug\WeatherWCF.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\obj\Debug\WeatherWCF.dll
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherWCF\WeatherWCF\obj\Debug\WeatherWCF.pdb

@@ -1,0 +1,8 @@
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\bin\Debug\WCFHost.exe.config
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\bin\Debug\WCFHost.exe
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\bin\Debug\EmployeeWCF.dll
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\bin\Debug\EmployeeWCF.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\obj\Debug\WCFHost.exe
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\WCFHost\obj\Debug\WCFHost.pdb

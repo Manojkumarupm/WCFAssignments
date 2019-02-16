@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\bin\MyCalculator.dll.config
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\bin\MyCalculator.dll
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\bin\MyCalculator.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+C:\Users\m9peru\Desktop\FSE\WCF\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb

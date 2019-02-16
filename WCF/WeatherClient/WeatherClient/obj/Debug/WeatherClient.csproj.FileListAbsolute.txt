@@ -1,0 +1,6 @@
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\bin\Debug\WeatherClient.exe.config
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\bin\Debug\WeatherClient.exe
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\bin\Debug\WeatherClient.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\obj\Debug\WeatherClient.csprojResolveAssemblyReference.cache
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\obj\Debug\WeatherClient.exe
+C:\Users\m9peru\Desktop\FSE\WCF\WeatherClient\WeatherClient\obj\Debug\WeatherClient.pdb

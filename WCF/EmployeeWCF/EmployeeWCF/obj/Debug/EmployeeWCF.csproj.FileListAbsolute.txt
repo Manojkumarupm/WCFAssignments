@@ -1,0 +1,5 @@
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\EmployeeWCF\bin\EmployeeWCF.dll.config
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\EmployeeWCF\bin\EmployeeWCF.dll
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\EmployeeWCF\bin\EmployeeWCF.pdb
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\EmployeeWCF\obj\Debug\EmployeeWCF.dll
+C:\Users\m9peru\Desktop\FSE\WCF\EmployeeWCF\EmployeeWCF\obj\Debug\EmployeeWCF.pdb
